@@ -1,5 +1,6 @@
 ## Hello ꒰ঌ₍ᐢ. .ᐢ₎໒꒱
-☀️♑🌕♋🔺♈<br>Other interests: Fashion, photography, music, VFX.<br>Other skills: Blender, Figma, Framer, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pro, Pro Tools, FL Studio<br>When I'm not studying ( ꩜ ᯅ ꩜;)⁭ ⁭,<br> I make music, clothes, create environments in Blender, or make reviews for skincare/makeup brands.<br>ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧<br>I usually work with my toy poodle Chanel on my lap.
+☀️♑🌕♋🔺♈<br>
+Full-stack web development student at Arizona State! <br>Other interests: Fashion, photography, music, VFX.<br>Other skills: Blender, Figma, Framer, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pro, Pro Tools, FL Studio<br>When I'm not studying ( ꩜ ᯅ ꩜;)⁭ ⁭,<br> I make music, clothes, create environments in Blender, or make reviews for skincare/makeup brands.<br>ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧<br>I usually work with my toy poodle Chanel on my lap.
 
 
 # 💻 Tech Stack:
